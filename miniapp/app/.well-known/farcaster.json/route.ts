@@ -33,7 +33,7 @@ export async function GET() {
         `${baseUrl}/screenshot2.jpg`,
         `${baseUrl}/screenshot3.jpg`,
       ],
-      primaryCategory: 'lifestyle',
+      primaryCategory: 'utility',
       tags: [
         "sustainability",
         "eco",
@@ -42,7 +42,7 @@ export async function GET() {
         "environment"
       ],
       tagline: 'Your AI Sustainability Coach',
-      ogTitle: 'EcoGuide AI - Your Sustainability Coach',
+      ogTitle: 'EcoGuide AI',
       ogDescription: 'Personalized AI-powered sustainability recommendations tailored to your lifestyle and constraints.',
       ogImageUrl: `${baseUrl}/og-image.png`,
       castShareUrl: baseUrl,
