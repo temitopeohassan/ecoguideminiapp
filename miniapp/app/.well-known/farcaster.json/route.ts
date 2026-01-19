@@ -20,7 +20,7 @@ export async function GET() {
       name: 'EcoGuide AI',
       iconUrl: `${baseUrl}/icon.png`,
       splashImageUrl: `${baseUrl}/splash.png`,
-      splashBackgroundColor: '#10B981',
+      splashBackgroundColor: '#001c30',
       homeUrl: baseUrl,
       imageUrl: `${baseUrl}/og-image.png`,
       buttonTitle: 'Start Coaching',
